@@ -1,0 +1,7 @@
+bin
+.vscode
+target
+email.properties
+.classpath
+.project
+.settings
