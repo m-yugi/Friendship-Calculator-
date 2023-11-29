@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin:0
+}
+.logo{
+    text-align: center;
+    background-color: #000000d4;
+    color: white;
+    height: 60px;
+    padding-top: 10px;
+}
+.errors{
+    color: red;
+    display: inline-block;
+    margin-left: 50px;
+}
+.form_container{
+    align-items: center;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 330px;
+    height: 300px;
+    margin: auto;
+    margin-top: 200px;
+    padding-top: 50px; 
+}
+.label{
+    display: block;
+    width: 195px;
+    height: 25px;
+}
+.inputs
+{
+    height: 25px;
+    width: 225px;
+    outline: none;
+}
+
+.btn{
+    outline: none;
+    background-color: bisque;
+    border: 2px solid gray;
+    border-radius: 10px;
+    height: 33px;
+    width: 90px;
+    align-content: center;
+    cursor: pointer;
+    margin-top: 10px;
+}
+#checkbox{
+    margin-right: 8px;
+}
